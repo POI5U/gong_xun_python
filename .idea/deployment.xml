@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="po@192.168.137.225:22 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_909" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="po@192.168.137.225:22 password (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/po/Desktop/ssh/project0" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="po@192.168.137.225:22 password (3)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/po/Desktop/ssh/project0" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="raspi">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/po/Desktop/ssh/project0" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
