@@ -17,6 +17,8 @@ if __name__ == "__main__":
 
     print("start run")
 
+
+
     mode_cross = yolo.OnnxFrame(cross_path, "blue", "red", "green")
     mode_weight = yolo.OnnxFrame(weight_path, "red", "green", "blue")
     cap = yolo.VideoCapture(0)
